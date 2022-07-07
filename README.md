@@ -3,4 +3,4 @@
 
 공부 기록은 👉 [여기](https://velog.io/@yeonheedong)
 
-1. 
+1. cs231n : 스탠포드 딥러닝 강의
